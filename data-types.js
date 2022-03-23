@@ -29,7 +29,7 @@ let f = undefined;
 let g = null;
 
 // 7 - Symbol
-let h = new Symbol('s');
+let h = Symbol('s');
 
 // Special type
 // 8 - Object
