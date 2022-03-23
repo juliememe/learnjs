@@ -1,0 +1,1 @@
+alert('Second external script!');
