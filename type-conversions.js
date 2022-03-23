@@ -1,6 +1,6 @@
 //alert automatically converts data in it into string
 let b = 445;
-alert(b);
+// alert(b);
 let v = String(676); //String() converts also into string '676'
 let s = String(false); // 'false'
 let a = String(null); // 'null'
